@@ -24,7 +24,7 @@ In the [templates](https://github.com/robertmartin8/udemyML/tree/master/template
 
 ## Notes
 
-At one stage I was going to write notes for every topic on the Udemy course, but I stopped after a while because I realised that the course was more focused on application than theory. In the [notes](https://github.com/robertmartin8/udemyML/tree/master/notes) folder, there are notes on preprocessing and multiple regression (the latter of which is nicely typed in LaTeX).
+At one stage I was going to write notes for every topic on the Udemy course, but I stopped after a while because I realised that the course was more focused on application than theory. In the [notes](https://github.com/achyutghosh/Machine-Learning-Tutorial/blob/master/notes/1-Preprocessing.md) folder, there are notes on preprocessing and multiple regression (the latter of which is nicely typed in LaTeX).
 
 ## Python vs R
 
