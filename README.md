@@ -1,4 +1,3 @@
-This repository contains my code following contents
 # Contents
 
 - [Getting started](#getting-started)
