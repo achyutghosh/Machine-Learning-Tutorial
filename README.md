@@ -15,7 +15,7 @@ To best make use of this repository, click on the "Clone or download" button tow
 
 In the Udemy course, Hadelin writes templates that make applying certain models very straightforward. I have made multiple improvements, and you should just be able to copy and paste segments into your project (though of course you should make every effort to *understand* before you copy paste).
 
-In the [templates](https://github.com/robertmartin8/udemyML/tree/master/templates) folder, you will find:
+In the [templates](https://github.com/achyutghosh/Machine-Learning-Tutorial/tree/master/templates) folder, you will find:
 
 - regression templates (python and R)
 - classification templates (python and R)
